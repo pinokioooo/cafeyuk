@@ -1,0 +1,10 @@
+{
+  "description": "Menyediakan aplikasi yang menyesuaikan fungsi dan tampilan dengan kebutuhan serta referensi yang Anda berikan.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
